@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://www.instagram.com/iamwaleedali/ https://www.linkedin.com/in/waleed-ali99/**
 
-- ⚡ Fun fact **1 of 2 cool twins! -->**
+- ⚡ Fun fact **1 of 2 cool twins! + endless love for languages -->**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
