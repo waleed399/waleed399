@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **my software skills**
 
-- 📫 How to reach me **iamwaleedali/ /waleed-ali99/**
+- 📫 How to reach me **/iamwaleedali/ /waleed-ali99/**
 
 - ⚡ Fun fact **1 of 2 cool twins! + endless love for languages -->**
 
