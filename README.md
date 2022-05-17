@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 it's Waleed</h1>
 <h3 align="center">A passionate Software Engineer from Israel</h3>
 
-- 🔭 I’m currently working on **landing my first job as Software Developer and continuous learning process**
+- 🔭 I’m currently working on **landing my first job as Software Developer + continuous learning process**
 
 - 🌱 I’m currently learning **FullStack development**
 
