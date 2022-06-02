@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋 it's Waleed</h1>
 <h3 align="center">A passionate Software Engineer from Israel</h3>
 
-- 🔭 I’m currently working on **landing my first job as Software Developer + continuous learning process**
+- 🔭 I’m currently working at **PalmRobotics as FullStack Developer**
 
 - 🌱 I’m currently learning **FullStack development**
 
 - 👯 I’m looking to collaborate on **open source**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **Python + machince learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/waleed399](https://github.com/waleed399)
 
