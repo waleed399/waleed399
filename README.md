@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 it's Waleed</h1>
 <h3 align="center">A passionate Software Engineer from Israel</h3>
 
-- 🔭 I’m currently working at **PalmRobotics as FullStack Developer**
+- 🔭 I’m currently looking for FullStack Developer position**
 
 - 🌱 I’m currently learning **FullStack development**
 
