@@ -3,12 +3,6 @@
 
 - 🔭 I’m currently looking for FullStack Developer position**
 
-- 🌱 I’m currently learning **FullStack development**
-
-- 👯 I’m looking to collaborate on **open source**
-
-- 🤝 I’m looking for help with **Python + machince learning**
-
 - 👨‍💻 All of my projects are available at [https://github.com/waleed399](https://github.com/waleed399)
 
 - 💬 Ask me about **my software skills**
