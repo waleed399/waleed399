@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 it's Waleed</h1>
-<h3 align="center">A passionate Software Engineer from Israel</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently looking for FullStack Developer position**
 
